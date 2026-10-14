@@ -1,0 +1,1 @@
+{"name":"pet-printed-gift-finder","version":"0.3.0","private":true,"scripts":{"dev":"node server.cjs","check":"node --check app.js && node --check catalog.js && node --check recommend.js","test":"node recommend.test.cjs","build":"node build.cjs"}}
